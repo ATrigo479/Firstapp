@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First app</string>
+    <string name="Hello">hello</string>
+    <string name="Goodbye">goodbye</string>
+    <string name="hello">Hello</string>
+    <string name="goodbye">Goodbye</string>
+    <string name="weewoo">WEEWOO</string>
+    <string name="greeting">Greeting</string>
+
+</resources>
